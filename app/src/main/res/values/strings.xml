@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LiveStock</string>
+    <string name="menu_home">menu</string>
+    <string name="your_full_name">Your full name</string>
+    <string name="your_email_id">Your Email Id</string>
+</resources>
